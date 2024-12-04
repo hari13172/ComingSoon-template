@@ -1,0 +1,38 @@
+/* ComingSoon.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #1a73e8, #1a8fe8);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.coming-soon-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.subtext {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.timer {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.timer span {
+  margin: 0 0.5rem;
+}
